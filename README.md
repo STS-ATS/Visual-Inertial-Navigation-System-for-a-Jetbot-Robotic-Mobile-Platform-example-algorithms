@@ -6,8 +6,6 @@ Be welcome to this proyect.
 
 #Table of Contents
 
-[TOCM]
-
 # Description
 
 The present post its part of the article  "Visual Inertial Navigation System for a Jetbot Robotic Mobile Platform"
