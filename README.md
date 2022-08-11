@@ -4,8 +4,6 @@ STS-ATS/Visual-Inertial-Navigation-System-for-a-Jetbot-Robotic-Mobile-Platform-e
 # Welcome!
 Be welcome to this proyect.
 
-#Table of Contents
-
 # Description
 
 The present post its part of the article  "Visual Inertial Navigation System for a Jetbot Robotic Mobile Platform"
