@@ -7,7 +7,9 @@ Be welcome to this proyect.
 # Description
 
 The present post its part of the article  "Visual Inertial Navigation System for a Jetbot Robotic Mobile Platform"
-#Requirements
+
+# Requirements
+
 - OpenCV 4.5.3 or higher
 - Python 3.8.8 or higher
 - Numpy 1.20.1
