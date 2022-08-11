@@ -81,5 +81,4 @@ while True:
     if cv2.waitKey(k) & 0xFF == ord('q'):
         break
 
-cv2.release()
 cv2.destroyAllWindows()
