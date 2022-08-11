@@ -16,3 +16,8 @@ The present post its part of the article  "Visual Inertial Navigation System for
 In the files uploaded to the git, can be found the visual reactive code with the volunteer video. Also the code for test the object distance with monocular camera, where the equation probably will need adjustment as well as the parameters of the object color.
 
 ## Recomendations
+Don't forget to read the comments on each code in order to replicate the experiments. Don't forget to change the volunteers video path.
+
+Press Q on the keyboard to close the algoritms.
+
+## END
